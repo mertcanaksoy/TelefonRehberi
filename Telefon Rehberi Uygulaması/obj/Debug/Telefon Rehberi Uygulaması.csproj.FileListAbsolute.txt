@@ -1,0 +1,11 @@
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\bin\Debug\Telefon Rehberi Uygulaması.exe.config
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon Rehberi Uygulaması.csprojResolveAssemblyReference.cache
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon_Rehberi_Uygulaması.Anaform.resources
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon_Rehberi_Uygulaması.frmListele.resources
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon_Rehberi_Uygulaması.frmYeniKayit.resources
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon_Rehberi_Uygulaması.Properties.Resources.resources
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon Rehberi Uygulaması.csproj.GenerateResource.Cache
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\bin\Debug\Telefon Rehberi Uygulaması.exe
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\bin\Debug\Telefon Rehberi Uygulaması.pdb
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon Rehberi Uygulaması.exe
+F:\YAZILIM\PROJELER\Telefon Rehberi Uygulaması\Telefon Rehberi Uygulaması\obj\Debug\Telefon Rehberi Uygulaması.pdb
